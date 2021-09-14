@@ -2488,6 +2488,61 @@ a {
     width: 80%;
   }
 }
+.cid-sJ1tuTcHJz {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/background7.jpg");
+}
+.cid-sJ1tuTcHJz .mbr-overlay {
+  background: #fafafa;
+  opacity: 0.1;
+}
+.cid-sJ1tuTcHJz img,
+.cid-sJ1tuTcHJz .item-img {
+  width: 100%;
+}
+.cid-sJ1tuTcHJz .item:focus,
+.cid-sJ1tuTcHJz span:focus {
+  outline: none;
+}
+.cid-sJ1tuTcHJz .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-sJ1tuTcHJz .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #fafafa;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-sJ1tuTcHJz .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sJ1tuTcHJz .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-sJ1tuTcHJz .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-sJ1tuTcHJz .mbr-section-title {
+  color: #232323;
+}
+.cid-sJ1tuTcHJz .mbr-text,
+.cid-sJ1tuTcHJz .mbr-section-btn {
+  text-align: left;
+}
+.cid-sJ1tuTcHJz .item-title {
+  text-align: center;
+}
+.cid-sJ1tuTcHJz .item-subtitle {
+  text-align: left;
+}
 .cid-sHkIvnWC6R {
   z-index: 1000;
   width: 100%;
