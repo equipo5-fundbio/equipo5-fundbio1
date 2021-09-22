@@ -4896,6 +4896,22 @@ a {
   padding-bottom: 5rem;
   background-color: #fafafa;
 }
+.cid-sJHUkB7cs6 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #fafafa;
+}
+@media (max-width: 991px) {
+  .cid-sJHUkB7cs6 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sJHUkB7cs6 .row {
+  flex-direction: row-reverse;
+}
+.cid-sJHUkB7cs6 img {
+  width: 100%;
+}
 .cid-sJ2C50j2GS {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -5120,6 +5136,16 @@ a {
     margin: auto;
     width: 80%;
   }
+}
+.cid-sJHKwAdtW9 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #fafafa;
+}
+.cid-sJHLmmJVcp {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #fafafa;
 }
 .cid-sJ2JOcmlNw {
   padding-top: 6rem;
@@ -5524,20 +5550,31 @@ a {
     width: 80%;
   }
 }
-.cid-sJCmnZE8Gh {
-  padding-top: 3rem;
-  padding-bottom: 0rem;
+.cid-sJI0PbUM5B {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-color: #fafafa;
+}
+@media (max-width: 991px) {
+  .cid-sJI0PbUM5B .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sJI0PbUM5B .row {
+  flex-direction: row-reverse;
+}
+.cid-sJI0PbUM5B img {
+  width: 100%;
 }
 .cid-sJCn3Z5z84 {
-  padding-top: 0rem;
+  padding-top: 4rem;
   padding-bottom: 0rem;
   background-color: #fafafa;
 }
-.cid-sJCnU2CfwR {
-  padding-top: 2rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
+.cid-sJI0Rkp7Eq {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #bbbbbb;
 }
 .cid-sJCnUrb6wx {
   padding-top: 3rem;
@@ -5605,4 +5642,86 @@ a {
 }
 .cid-sJHBum0LZt img {
   width: 100%;
+}
+.cid-sJHPJEeQFk {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/estado-del-arte.jpg");
+}
+.cid-sJHPJEeQFk .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sJHPJEeQFk .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 80%;
+  }
+}
+.cid-sJHPMtGVLG {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #fafafa;
+}
+@media (max-width: 991px) {
+  .cid-sJHPMtGVLG .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sJHPMtGVLG .row {
+  flex-direction: row-reverse;
+}
+.cid-sJHPMtGVLG img {
+  width: 100%;
+}
+.cid-sJHPPpAtoc {
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/fondo-pagina-web.jpg");
+}
+.cid-sJHPPpAtoc .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sJHPPpAtoc .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 80%;
+  }
+}
+.cid-sJHQt9fusJ {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #fafafa;
+}
+@media (max-width: 991px) {
+  .cid-sJHQt9fusJ .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sJHQt9fusJ .row {
+  flex-direction: row-reverse;
+}
+.cid-sJHQt9fusJ img {
+  width: 100%;
+}
+.cid-sJHQuMoNk9 {
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/conclusion.jpg");
+}
+.cid-sJHQuMoNk9 .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sJHQuMoNk9 .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 80%;
+  }
+}
+.cid-sJHQwoPRTg {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #fafafa;
 }
