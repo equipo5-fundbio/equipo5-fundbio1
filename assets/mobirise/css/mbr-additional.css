@@ -7955,20 +7955,13 @@ a {
 .cid-sMZiM54Iot img {
   width: 100%;
 }
-.cid-sN0BD61E5p {
-  padding-top: 3rem;
-  padding-bottom: 0rem;
-  background-color: #9fdbf8;
+.cid-sN0LeRBm9D {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #4479d9;
 }
-.cid-sN0BD61E5p .image-wrap img {
-  width: 100%;
-}
-@media (min-width: 992px) {
-  .cid-sN0BD61E5p .image-wrap img {
-    display: block;
-    margin: auto;
-    width: 80%;
-  }
+.cid-sN0LeRBm9D .mbr-section-title {
+  color: #ffffff;
 }
 .cid-sHkIvnWC6R {
   z-index: 1000;
