@@ -8111,6 +8111,22 @@ a {
   padding-bottom: 5rem;
   background-color: #fafafa;
 }
+.cid-sOkiSUHSdQ {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #fafafa;
+}
+@media (max-width: 991px) {
+  .cid-sOkiSUHSdQ .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sOkiSUHSdQ .row {
+  flex-direction: row-reverse;
+}
+.cid-sOkiSUHSdQ img {
+  width: 100%;
+}
 .cid-sNFLRERrHR {
   padding-top: 6rem;
   padding-bottom: 6rem;
