@@ -11174,6 +11174,22 @@ a {
 .cid-sOWJBw6om2 .mbr-text {
   text-align: center;
 }
+.cid-sOXccUnu6u {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #fafafa;
+}
+@media (max-width: 991px) {
+  .cid-sOXccUnu6u .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sOXccUnu6u .row {
+  flex-direction: row-reverse;
+}
+.cid-sOXccUnu6u img {
+  width: 100%;
+}
 .cid-sOWJBWnElS {
   padding-top: 6rem;
   padding-bottom: 6rem;
