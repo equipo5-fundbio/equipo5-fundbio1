@@ -10781,3 +10781,18 @@ a {
 .cid-sOUgz136bW img {
   width: 100%;
 }
+.cid-sOUJ1PSyv5 {
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+  background-color: #9fdbf8;
+}
+.cid-sOUJ1PSyv5 .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sOUJ1PSyv5 .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 80%;
+  }
+}
