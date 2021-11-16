@@ -10352,6 +10352,19 @@ a {
 .cid-sOkCIBwQXV img {
   width: 100%;
 }
+.cid-sOU8PMcP7V {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sOU8PMcP7V .video-wrapper iframe {
+  width: 100%;
+}
+.cid-sOU8PMcP7V .mbr-section-title,
+.cid-sOU8PMcP7V .mbr-section-subtitle,
+.cid-sOU8PMcP7V .mbr-text {
+  text-align: center;
+}
 .cid-sOkLhUdfLW {
   padding-top: 6rem;
   padding-bottom: 6rem;
