@@ -12409,3 +12409,16 @@ a {
     width: 80%;
   }
 }
+.cid-sPDPhSoDpg {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sPDPhSoDpg .video-wrapper iframe {
+  width: 100%;
+}
+.cid-sPDPhSoDpg .mbr-section-title,
+.cid-sPDPhSoDpg .mbr-section-subtitle,
+.cid-sPDPhSoDpg .mbr-text {
+  text-align: center;
+}
