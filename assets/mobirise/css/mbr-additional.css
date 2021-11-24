@@ -12122,6 +12122,22 @@ a {
 .cid-sPEqol5Ir5 img {
   width: 100%;
 }
+.cid-sPEytTI6RW {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #fafafa;
+}
+@media (max-width: 991px) {
+  .cid-sPEytTI6RW .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sPEytTI6RW .row {
+  flex-direction: row-reverse;
+}
+.cid-sPEytTI6RW img {
+  width: 100%;
+}
 .cid-sOd8gBlxOR {
   z-index: 1000;
   width: 100%;
